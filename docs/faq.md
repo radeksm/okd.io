@@ -50,9 +50,9 @@ OKD is a community-supported distribution, Red Hat does not provide commercial s
 
 Contact us on Slack:
 
-- Workspace: Kubernetes, Channel: **#openshift-dev** (for **developer** communication)
+- Workspace: Kubernetes, Channel: [#openshift-users](https://kubernetes.slack.com/messages/openshift-users/) (for installation & usage questions/issues)
 
-- Workspace: Kubernetes, Channel: **#openshift-users** (for **users**)
+For OKD-specific help, visit the community-led discussion [https://github.com/okd-project/okd/discussions](https://github.com/okd-project/okd/discussions) forum
 
 See [https://openshift.tips/](https://openshift.tips/){: target=_blank} for useful Openshift tips
 
