@@ -17,7 +17,7 @@ The easiest way to get involved in the community is to:
 - watch [replays of previous working group meetings](https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqc3WjZB-rUTPru8RKyOCnBo){: target=_blank}
 - attend [one of the working group meetings](https://calendar.fedoraproject.org/list/okd/){: target=_blank} (no invite needed, just use the link in the calendar to join the Zoom video conference).
 - join the [OKD Working Group Google Group](https://groups.google.com/g/okd-wg){: target=_blank}
-- join the [#openshift-users channel on Slack](https://kubernetes.slack.com/messages/openshift-users/){: target=_blank}
+- join the [Matrix room](https://matrix.to/#/#okd:fedoraproject.org){: target=_blank}
 
 The OKD project has a [charter](https://github.com/openshift/community/blob/master/CHARTER.md){: target=_blank}, setting out how the project is run.
 
