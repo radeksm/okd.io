@@ -29,7 +29,7 @@ The OKD Virtualization Subgroup is monitoring and integrating the following proj
 
 OKD Workgroup Google Group: <https://groups.google.com/forum/#!forum/okd-wg>
 
-Slack Channel: <https://kubernetes.slack.com/messages/openshift-dev>
+Slack Channel: [#openshift-users](https://kubernetes.slack.com/messages/openshift-users/)
 
 ## TODO
 
