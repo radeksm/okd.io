@@ -159,3 +159,4 @@ nav:
   - Help:
       - Getting Help: help.md
       - FAQ: faq.md
+      - SCOS Migration FAQ: scos-migration-faq.md
