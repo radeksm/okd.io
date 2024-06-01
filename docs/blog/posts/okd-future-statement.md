@@ -1,9 +1,11 @@
 ---
 draft: false 
-date: 2024-05-28
+date: 2024-06-01
 ---
 
-# OKD Working Group Statement May 28, 2024
+<!-- cSpell:ignore SCOS ostree homelabs -->
+
+# OKD Working Group Statement June 1, 2024
 
 We would like to take a moment to outline what's been happening the past few months in terms of OKD releases and what the future holds for the project. 
 
@@ -17,7 +19,7 @@ On the community involvement and engagement side of things, we'll be relaunching
 
 We appreciate everyone's patience over the past few months while we solidified the path forward. We wanted to be confident the pieces would fit together and bring about the desired results before releasing an official statement. From here on out, there will be regular updates on our website.
 
-We understand that there will be lots of questions as this process moves forward. Please post those questions on [this discussion thread](https://github.com/okd-project/okd/discussions/1922). We will organize them into this [Frequently Asked Questions page on the transition](../../scos-migration-faq.md).
+We understand that there will be lots of questions as this process moves forward. Please post those questions on [this discussion thread](https://github.com/okd-project/okd/discussions/1922). We will organize them into this [Frequently Asked Questions page](https://okd.io/scos-migration-faq/).
 
 Many thanks,
 
