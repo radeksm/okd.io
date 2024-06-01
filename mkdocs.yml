@@ -1,7 +1,7 @@
 site_name: OKD.io
 site_description: >-
   The Community Distribution of Kubernetes that powers Red Hat OpenShift
-site_url: https://openshift-cs.github.io/okd.io/index.html
+site_url: https://okd.io/
 site_author: Brian Innes
 repo_name: "okd-io"
 repo_url: https://github.com/okd-project/okd.io
