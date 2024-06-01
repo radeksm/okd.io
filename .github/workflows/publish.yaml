@@ -21,7 +21,7 @@ jobs:
       - name: Spellcheck
         run: ./node_modules/.bin/cspell "docs/**/*.md"
       - name: Build the site
-        run: mkdocs gh-deploy --strict --clean --verbose -d public
+        run: mkdocs gh-deploy --strict --force --clean --verbose -d public
       - name: Upload built site
         uses: actions/upload-artifact@v4
         with:
